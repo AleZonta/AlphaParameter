@@ -1,4 +1,4 @@
-## Comparison between two human-like movementsgenerators based on environmental features
+## Comparison between two human-like movementsgenerators based on environmental feature
 
 Preference between total distance or attractiveness of the environment
 The modification of the parameter alpha in Equation 5 in the paper is very important for the two A*
@@ -19,9 +19,9 @@ The number after the name of the A* used means the same starting point is used t
 
 #### Feature Based A* 0 
 
-| ![](pics/small_matrix_features_all_f_3.png) | ![](pics/small_matrix_features_all_i_3.png)  |
+| ![](pics/small_matrix_feature_all_f_3.png) | ![](pics/small_matrix_feature_all_i_3.png)  |
 | --------------------------------------- | ---------------------------------------- |
-| ![](pics/small_matrix_features_nothing_f_3.png) | ![](pics/small_matrix_features_nothing_i_3.png)  |
+| ![](pics/small_matrix_feature_nothing_f_3.png) | ![](pics/small_matrix_feature_nothing_i_3.png)  |
 
 -----
 
@@ -35,9 +35,9 @@ The number after the name of the A* used means the same starting point is used t
 
 #### Feature Based A* 1
 
-| ![](pics/small_matrix_features_all_f_15.png) | ![](pics/small_matrix_features_all_i_15.png)  |
+| ![](pics/small_matrix_feature_all_f_15.png) | ![](pics/small_matrix_feature_all_i_15.png)  |
 | --------------------------------------- | ---------------------------------------- |
-| ![](pics/small_matrix_features_nothing_f_15.png) | ![](pics/small_matrix_features_nothing_i_15.png)  |
+| ![](pics/small_matrix_feature_nothing_f_15.png) | ![](pics/small_matrix_feature_nothing_i_15.png)  |
 
 -----
 
@@ -51,9 +51,9 @@ The number after the name of the A* used means the same starting point is used t
 
 #### Feature Based A* 2
 
-| ![](pics/small_matrix_features_all_f_27.png) | ![](pics/small_matrix_features_all_i_27.png)  |
+| ![](pics/small_matrix_feature_all_f_27.png) | ![](pics/small_matrix_feature_all_i_27.png)  |
 | --------------------------------------- | ---------------------------------------- |
-| ![](pics/small_matrix_features_nothing_f_27.png) | ![](pics/small_matrix_features_nothing_i_27.png)  |
+| ![](pics/small_matrix_feature_nothing_f_27.png) | ![](pics/small_matrix_feature_nothing_i_27.png)  |
 
 -----
 
@@ -67,9 +67,9 @@ The number after the name of the A* used means the same starting point is used t
 
 #### Feature Based A* 3
 
-| ![](pics/small_matrix_features_all_f_39.png) | ![](pics/small_matrix_features_all_i_39.png)  |
+| ![](pics/small_matrix_feature_all_f_39.png) | ![](pics/small_matrix_feature_all_i_39.png)  |
 | --------------------------------------- | ---------------------------------------- |
-| ![](pics/small_matrix_features_nothing_f_39.png) | ![](pics/small_matrix_features_nothing_i_39.png)  |
+| ![](pics/small_matrix_feature_nothing_f_39.png) | ![](pics/small_matrix_feature_nothing_i_39.png)  |
 
 -----
 #### Fitness Based A* 4
@@ -82,7 +82,7 @@ The number after the name of the A* used means the same starting point is used t
 
 #### Feature Based A* 4
 
-| ![](pics/small_matrix_features_all_f_43.png) | ![](pics/small_matrix_features_all_i_43.png)  |
+| ![](pics/small_matrix_feature_all_f_43.png) | ![](pics/small_matrix_feature_all_i_43.png)  |
 | --------------------------------------- | ---------------------------------------- |
-| ![](pics/small_matrix_features_nothing_f_43.png) | ![](pics/small_matrix_features_nothing_i_43.png)  |
+| ![](pics/small_matrix_feature_nothing_f_43.png) | ![](pics/small_matrix_feature_nothing_i_43.png)  |
 
